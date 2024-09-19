@@ -9,15 +9,18 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    git clone https://github.com/sumitvaishnav779/task-management-app-backend.git
-   cd repo
 
+   Navigate into the project directory
+   
 2. Install the dependencies:
 
     Run the Command:
+   
     npm install
 
-3. Run the project:
+4. Run the project:
 
     Run the Command:
+   
     npm start
 
